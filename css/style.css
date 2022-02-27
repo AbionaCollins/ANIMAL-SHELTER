@@ -1,0 +1,198 @@
+.animal{
+      
+    text-align: center;
+    color: blue;
+    font-style: oblique;
+    border: gold;
+ font-style: oblique;
+ background-color:  red;
+ border-width: 80%;
+
+}
+body{
+    background-color:black;
+}
+
+.gallerry{
+    text-align: center;
+ font-style: oblique;
+ font-size: xx-large;
+ background-color:  red;
+ border-radius: 20%;
+border-width: 80%;
+
+}
+.contactus{
+   text-align: center;
+    margin-left: 100%;
+    font-style: oblique;
+    font-size: xx-large;
+    background-color:red;
+    border-radius: 80%;
+    margin-left: 5%;
+     border-width: 80%;
+     color: black;
+}
+.price{
+    text-align: center;
+    margin-left: 100%;
+    font-style: oblique;
+    font-size: xx-large;
+    background-color:  red;
+    border-radius: 80%;
+    margin-left: 5%;
+     border-width: 80%;
+}
+div{
+    display: flex; 
+ }
+.aboutus{
+    text-align: center;
+    margin-left: 100%;
+    font-size: xx-large;
+    background-color:  red;
+    border-radius: 80%;
+    margin-left: 5%;
+    font-style: oblique;
+    border-width: 80%;
+
+}
+#laboutus{
+    text-align: center;
+    color: black;
+    margin-left: 10%;
+    font-style: oblique;
+    font-size: xx-large;
+    background-color:  red;
+    border-radius: 80%;
+    
+    
+    
+    font-size: xx-large;
+    border-radius: 10%;
+    
+    
+    
+
+}
+#lcontact{
+    
+    text-align: center;
+    color:black;
+    font-style: oblique;
+    border: gold;
+    background-color:red;
+    border-width: 80%;
+    margin-left: 10%;
+    
+    margin-left: 100%;
+    font-size: xx-large;
+    border-radius: 10%;
+    margin-left: 12%;
+}
+#lgallerry{
+    
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    border: gold;
+    background-color:  red;
+    border-width: 80%;
+    margin-left: 12%;
+    
+    
+    
+    font-size: xx-large;
+    border-radius:10%;
+
+}
+
+#lprice{
+    
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    border: gold;
+    background-color:  red;
+    border-width: 80%;
+
+    
+    margin-left: 100%;
+    font-size: xx-large;
+    background-color:  red;
+    border-radius: 10%;
+    margin-left:17%;
+
+}
+
+div{
+    margin-left: 20%;
+    display: flex;
+}   
+.logo{
+    width: 10%;
+
+}
+.school{
+    width: 50%;
+    margin-left: 30%;
+}
+#lresort{
+    
+    
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    border: gold;
+    margin-left: 10%;
+    background-color:red;
+    border-width: 80%;
+    
+    
+    
+    font-size: xx-large;
+    background-color: red;
+    border-radius:10%;
+}
+.car{
+    
+    font-size: xx-large;
+    font-style: oblique;
+}
+.call{
+    width: 10%;
+}
+.fish{
+    color: gold;
+}
+#lhome{
+    
+    
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    border: gold;
+    background-color:red;
+    border-width: 80%;
+    
+    
+    
+    font-size: xx-large;
+    background-color: red;
+    border-radius:10%;
+}
+.collins{
+    color: blue;
+}
+.abiona{
+    width: 100%;
+}
+.small{
+    width: 10%;
+}
+.nature{
+    color: pink;
+}
+.acc{
+    color: blue;
+}
